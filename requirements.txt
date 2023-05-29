@@ -1,0 +1,8 @@
+langchain
+Jinja2
+tiktoken
+openai
+pandas
+chromadb
+notebook
+tabulate

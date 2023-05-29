@@ -43,3 +43,11 @@ Open http://127.0.0.1:8000/docs#/default to extract information from document.
                   }
                 }
 ```
+
+
+<p align="center"> 
+  <kbd>
+    <a href="https://github.com/okoliechykwuka/Medication-Information-Search-Engine" target="_blank"><img src="image.jpg">
+  </a>
+  </kbd>
+</p>

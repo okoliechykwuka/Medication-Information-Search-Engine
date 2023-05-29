@@ -43,7 +43,7 @@ Open http://127.0.0.1:8000/docs#/default to extract information from document.
                   }
                 }
 ```
-
+###  FastAPI EndPoint For Model
 
 <p align="center"> 
   <kbd>

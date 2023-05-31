@@ -9,8 +9,7 @@
 2.  Install the required packages:   `pip install -r requements.txt`
 3.  Run the note one cell at a time.
 4.  Open the API endpoint to test the application: ` #Open http://127.0.0.1:8000/docs#/default to extract information from document`
-5.  Place this api_key in the .env file  ""
-
+5.  Generate an OpenAI API Key and place in the .env file
 5. Request Body and Response Body
 
 Open http://127.0.0.1:8000/docs#/default to extract information from document.

@@ -46,6 +46,7 @@ Open http://127.0.0.1:8000/docs#/default to extract information from document.
 ### Link to application documentation.
 
     [API Documentation](https://docs.google.com/document/d/1_UkjLBW8heJmJJ_2bVCYWnk2BkXmeSX97_DXKakPLmw/edit?usp=sharing)
+    
 
 ###  FastAPI EndPoint For Model
 
